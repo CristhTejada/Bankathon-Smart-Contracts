@@ -1,0 +1,21 @@
+#dev
+node_modules
+package-lock.json
+.env
+.eslintignore
+.eslintrc.js
+.npmignore
+.prettierignore
+.solhintignore
+
+#rsk node
+logs
+rskNode.jar
+.airnode-starter.config.json
+
+#typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
